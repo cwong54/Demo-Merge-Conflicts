@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Clarence Wong
+A simple demo, by Clarence Wong, for DMIT-2018
